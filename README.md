@@ -1,4 +1,4 @@
-<img src='./oc-logo.jpeg' width=64x />
+<img src='./téléchargé.png' width=100x />
 
 # Portfolio
 Openclassrooms - Data Analyst Formation
