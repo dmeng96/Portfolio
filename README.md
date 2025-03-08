@@ -22,7 +22,7 @@ Agréable lecture!
  * Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène
  * Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle
 
-## [Projet 11 : Produisez une étude de marché avec Python](./projets/projet-9/)<br>
+## [Projet 11 : Produisez une étude de marché avec Python](Projets/Projet 11)<br>
 
 ### 🎬 Mission
  * La poule qui chante, une entreprise française d’agroalimentaire, dont l'activité principale est l’élevage et la vente de poulets
