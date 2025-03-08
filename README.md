@@ -8,7 +8,7 @@ Agréable lecture!
 
 ## 👨‍💻 Liste des Projets 
 
-## [Projet 12 : Détectez des faux billets avec Python](./projets/projet-10/)<br>
+## [Projet 12 : Détectez des faux billets avec Python](./Projets/Projet-12/)<br>
 
 ### 🎬 Mission
  * Mission de data analyst au sein de l’Organisation nationale de lutte contre le faux-monnayage (ONCFM), pour construire un algorithme
@@ -38,7 +38,7 @@ Agréable lecture!
  * Réduire la dimension du jeu de données pour optimiser le temps d'apprentissage des modèles
  * Sélectionner les variables pertinentes d'un modèle d'apprentissage
 
-## [Projet 9 : Analysez les ventes d'une librairie avec R ou Python](./projets/projet-8/)<br>
+## [Projet 9 : Analysez les ventes d'une librairie avec R ou Python](./Projets/Projet-9/)<br>
 
 ### 🎬 Mission
  * L’entreprise Lapage, librairie physique avec plusieurs points de vente décide d’ouvrir un site de vente en ligne. 
@@ -53,7 +53,7 @@ Agréable lecture!
  * Analyser un jeu de données avec séries temporelles pour mesurer un phénomène statistique
  * Réaliser des tests statistiques sur des données afin de tester et valider des hypothèses
 
-## [Projet 8 : Analysez des indicateurs de l'égalité femme-homme avec Knime](./projets/projet-7/)<br>
+## [Projet 8 : Analysez des indicateurs de l'égalité femme-homme avec Knime](./Projets/Projet-8/)<br>
 
 ### 🎬 Mission
  * Data analyst dans un cabinet de consultants spécialisé dans la transformation digitale des entreprises,la directrice des ressources humaines
@@ -69,7 +69,7 @@ Agréable lecture!
   * Collecter des données pertinentes en respect des normes et bonnes pratiques
   * Vérifier la cohérence et la fiabilité des données préparées
 
-## [Projet 7 Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](./projets/projet-6/)<br>
+## [Projet 7 Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets](./Projets/Projet-7/)<br>
 
 ### 🎬 Mission
  * Déployé chez le client Sanitoral par une ESN pour réaliser une mission de visualisation de données,
@@ -82,7 +82,7 @@ Agréable lecture!
   * Produire un reporting en analysant les visualisations pour faciliter les décisions
 
 
-## [Projet 5 : Créez et utilisez une base de données immobilière avec SQL](./projets/projet-5/)<br>
+## [Projet 5 : Créez et utilisez une base de données immobilière avec SQL](./Projets/Projet-5/)<br>
 
 ### 🎬 Mission
   * Data Analyst chez Laplace Immo, un réseau national d’agences immobilières celle-ci confie la modification de la base de données permettant
